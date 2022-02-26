@@ -1,0 +1,85 @@
+/*--------------------------------------------------------------------------------
+
+                            THANK YOU EDUREKA 
+                        FOR MAKING THIS HAPPEN FOR ME
+                            FROM JERRY BABATUNDE
+
+-----------------------------------------------------------------------------------*/
+
+/*NAVIGATATION styling STARTS here*/
+.logo{
+    color: rgb(255, 0, 0);
+    background-color: #fff;
+    width: 40px;
+    height :40px;
+    border-radius: 50%;
+    font-size: 20px;
+    padding-left: 6px;
+}
+
+nav, .navbar-light{
+    padding: 0%;
+    margin: 0%;
+}
+/*NAVIGATATION styling ENDS here*/
+
+/*FILTER styling STARTS here*/
+.heading {
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    color: #192f60;
+    margin-bottom: 20px;
+}
+
+.subheading {
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    color: #192f60;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.card{
+        border-radius: 0%;
+        box-shadow: 0px 3px 3px 0px #dee2e6;
+        margin-bottom: 5px;
+        border-color: #fff;
+}
+
+.card-text{
+        color: #8c96ab;
+        font-size: 20px;
+}
+
+/*FILTER styling ENDS here*/
+
+/*RESULT styling STARTS here*/
+.heading 
+    {
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    color: #192f60;
+    }
+
+.subheading {
+    height: 25px;
+    font-size: 18px;
+    color: #192f60;  
+    }
+
+img{
+    padding: 2%;
+    
+    }
+.res-info{
+    padding: .5%;
+    }
+/*RESULT styling ENDS here*/
+
+/* PAGINATION styling starts here */
+li .active {
+    background-color: rgba(219, 190, 152, 0.342);
+}
